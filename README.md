@@ -1,19 +1,19 @@
 🫀 Heart Failure Prediction with Random Forest
 
 📌 Overview
-This project is a binary classification task to predict whether a patient is likely to develop heart failure based on medical data such as age, resting blood pressure, cholesterol, and more. The model is trained using a Random Forest Classifier for its accuracy, interpretability, and ability to handle both categorical and numerical features.
+- This project is a binary classification task to predict whether a patient is likely to develop heart failure based on medical data such as age, resting blood pressure, cholesterol, and more. The model is trained using a Random Forest Classifier for its accuracy, interpretability, and ability to handle both categorical and numerical features.
 
 📂 Dataset
-Source: [UCI Heart Disease Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data)
-Format: CSV file
-Target column: HeartDisease (1 = heart disease present, 0 = no disease)
+- Source: [UCI Heart Disease Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data)
+- Format: CSV file
+- Target column: HeartDisease (1 = heart disease present, 0 = no disease)
 
 🛠 Tools & Technologies
-Python
-pandas, numpy
-scikit-learn (RandomForestClassifier, train_test_split, evaluation metrics)
-matplotlib, seaborn (for visualizations)
-Jupyter Notebook
+- Python
+- pandas, numpy
+- scikit-learn (RandomForestClassifier, train_test_split, evaluation metrics)
+- matplotlib, seaborn (for visualizations)
+- Jupyter Notebook
 
 ⚙️ Workflow
 1. Data Loading
