@@ -1,4 +1,5 @@
 🫀 Heart Failure Prediction with Random Forest
+
 📌 Overview
 This project is a binary classification task to predict whether a patient is likely to develop heart failure based on medical data such as age, resting blood pressure, cholesterol, and more. The model is trained using a Random Forest Classifier for its accuracy, interpretability, and ability to handle both categorical and numerical features.
 
